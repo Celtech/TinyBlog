@@ -6,31 +6,31 @@ TinyBlog is a light weight blog system designed for those who know little or not
 
 Change Log
 ========
-Changes to come-
-Theme Functionality to ACP Controls
-Expanded ACP Site controls
+Changes to come-<br />
+Theme Functionality to ACP Controls<br />
+Expanded ACP Site controls<br />
 Dynamic Paging For Archive
 
-1.1.1 - 
-Bug fix for CSS themeing issues...
+1.1.1 -<br /> 
+Bug fix for CSS themeing issues...<br />
 
-1.1.0 -
-CSS is now theme dependent rather than core
-Slider is now theme dependent rather than core
+1.1.0 -<br />
+CSS is now theme dependent rather than core<br />
+Slider is now theme dependent rather than core<br />
 Removed Unnecessary code and cleaned up the head
 
-1.0.0 -
+1.0.0 -<br />
 Initial project launch
 
 Credits
 ========
-Developed by Tim Hinz, Owner and lead developer of Celtech Development.
-Contributions from Bradly Galloway and Necrosyz
+Developed by Tim Hinz, Owner and lead developer of Celtech Development.<br />
+Contributions from Bradly Galloway and Necrosyz<br />
 
-Inspiration and Testing: Ryan Beggs, Necrosyz, Emilia Nowell, Preston Garbby, and the many others who supported the project of facebook!
+Inspiration and Testing: Ryan Beggs, Necrosyz, Emilia Nowell, Preston Garbby, and the many others who supported the project of facebook!<br />
 
-Like the project on Facebook: https://www.facebook.com/tinyblog
-Follow the project on twitter: https://www.twitter.com/tinyblogproject
+Like the project on Facebook: https://www.facebook.com/tinyblog<br />
+Follow the project on twitter: https://www.twitter.com/tinyblogproject<br />
 
 License
 ========
