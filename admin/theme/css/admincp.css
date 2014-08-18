@@ -1,0 +1,106 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	margin-left:300px;
+}
+
+.controltitle{
+	font-size:20px;
+}
+
+.bloglink{
+	text-decoration: none;
+	color:#fff;
+}
+
+.bloglink:hover{
+	text-decoration: underline;
+}
+
+.title{
+	width:810px;
+	border:1px solid #ccc;
+	height:30px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-khtml-border-radius: 5px; 
+	padding-left:5px;
+	margin-bottom:5px;
+	margin-top:10px;
+}
+
+.subtitle{
+	font-size:20px;
+}
+
+.subtitlewrapper{
+	width:100%;
+	margin:auto;
+	padding-top:20px;
+}
+
+.container{
+	color:000;
+	width:90%;
+	background:#fff;
+	margin:auto;
+	margin-top:10px;
+}
+
+.header{
+	-moz-user-select: none; 
+	-webkit-user-select: none; 
+	-ms-user-select:none; 
+	user-select:none;
+	background:url('theme/imgs/arrow.png') no-repeat;
+	background-size:22px 22px;
+	background-position:right 0px;
+	cursor:pointer;
+	border-bottom:1px solid black;
+}
+
+.collapsed .header{
+	background-image:url('theme/imgs/arrow.png');
+	background-size:22px 22px;
+	border-bottom:none;
+}
+
+.content{
+	height:auto;
+	overflow:hidden;
+	transition:all 0.3s linear;
+	-webkit-transition:all 0.3s linear;
+	-moz-transition:all 0.3s linear;
+	-ms-transition:all 0.3s linear;
+	-o-transition:all 0.3s linear;
+}
+.collapsed .content{
+	min-height:0px;
+	height:0px;
+}
+
+.post{
+	padding:5px;
+	width:150px;
+}
+
+.wrapper{
+	width:100%;
+	margin:auto;
+}
+
+.links{
+	color:#666;
+}
+
+.leftnav{
+	color:#fff;
+	left:0px;
+	position:absolute;
+	width:300px;
+	height:100%;
+	background-color:#0076A3;
+	text-align:center;
+}
