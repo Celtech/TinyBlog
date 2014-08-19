@@ -100,7 +100,8 @@
 						</div>
 					');
 				}else if($installer == "4"){
-					mysql_query("INSERT INTO `users` (`ID`, `USERNAME`, `PASSWORD`, `EMAIL`, `DATE`, `RANK`) VALUES (NULL, '$username', '$password', '$email', '$date', '1');");
+					$enc_pass = md5($password);
+					mysql_query("INSERT INTO `users` (`ID`, `USERNAME`, `PASSWORD`, `EMAIL`, `DATE`, `RANK`) VALUES (NULL, '$username', '$enc_pass', '$email', '$date', '1');");
 					
 					echo('
 						<span class="welcome">Thank you for choosing TinyBlog!</span>
