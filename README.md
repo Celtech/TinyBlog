@@ -11,6 +11,9 @@ Theme Functionality to ACP Controls<br />
 Expanded ACP Site controls<br />
 Dynamic Paging For Archive
 
+1.1.2 -<br />
+Security Patch on user authentication
+
 1.1.1 -<br /> 
 Bug fix for CSS themeing issues...<br />
 
