@@ -1,8 +1,12 @@
 TinyBlog
 ========
-![alt tag](http://puu.sh/aXo8z/eaf32e1164.png)
+![alt tag](http://puu.sh/aYCUP/e311d559ae.jpg)
 
 TinyBlog is a light weight blog system designed for those who know little or nothing about programming or web development. If you're looking to simply blog without all the fancy bells and whistles that's what this project is for. Sporting only 5Mb worth of data and having a fully developed themeing system plus a admin control panel its not only optimized to be simple, its created to be fast for all the slow servers.
+
+![alt tag](http://puu.sh/aXo8z/eaf32e1164.png)
+
+![alt tag](http://puu.sh/aYCFI/ab4374fa8d.png)
 
 Change Log
 ========
