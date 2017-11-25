@@ -19,4 +19,4 @@
 			<?php include("themes/$theme/footer.php"); ?>
 		</div>
 	</body>
-</html>
+</html> 
